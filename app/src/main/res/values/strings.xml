@@ -1,0 +1,9 @@
+<resources>
+  <string name="app_name">NanoChat</string>
+
+  <string name="hello_world">Hello world!</string>
+  <string name="action_settings">Settings</string>
+  <string name="Send">Send</string>
+  <string name="Username">Username</string>
+  <string name="Message">Message</string>
+</resources>
